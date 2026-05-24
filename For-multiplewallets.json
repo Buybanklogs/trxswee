@@ -1,0 +1,10 @@
+[
+  {
+    "address": "TXXX111",
+    "privateKey": "PRIVATEKEY111"
+  },
+  {
+    "address": "TXXX222",
+    "privateKey": "PRIVATEKEY222"
+  }
+]
